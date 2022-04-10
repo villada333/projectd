@@ -1,0 +1,34 @@
+[GERAL]
+entrada = 1
+entrada_percentual = N
+conta = REAL
+# PRACTICE / REAL
+
+stop_win = 1001
+stop_loss = 1000
+trailing_stop = N
+trailing_stop_valor = 10
+payout = 70
+
+martingale = S
+mgProxSinal = N
+valorGale = 2
+niveis = 10
+
+analisarTendencia = S
+noticias = N
+timerzone = N
+hitVela = S
+
+[CICLOS]
+usar_ciclos = N
+nivel_ciclos = 2
+
+[telegram]
+telegram_token =
+telegram_id = 
+usar_bot = N
+
+[CONTA]
+email = email iqoption
+senha = password iqoption
