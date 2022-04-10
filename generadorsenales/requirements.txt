@@ -1,0 +1,6 @@
+git+git://github.com/iqoptionapi/iqoptionapi.git
+datetime
+colorama
+numpy
+requests
+pandas
